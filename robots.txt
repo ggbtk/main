@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xn--p89ap9iocp23cl1doodcuny8spsk.com/sitemap.xml
